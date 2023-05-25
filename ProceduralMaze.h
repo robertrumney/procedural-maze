@@ -6,7 +6,7 @@
 #include "ProceduralMaze.generated.h"
 
 UCLASS()
-class YOURGAME_API AProceduralMaze : public AActor
+class MAZEGAME_API AProceduralMaze : public AActor
 {
     GENERATED_BODY()
 
